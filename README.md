@@ -1,4 +1,4 @@
-# Clasificaci-n-Multiclase-con-XGBoost
+# Clasificacion-Multiclase-con-XGBoost
 Clasificación multiclase del conjunto de datos de dermatología de UCI.
 
 # Datos
